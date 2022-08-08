@@ -82,3 +82,13 @@ https://www.cisco.com/c/en/us/td/docs/security/vpn_client/anyconnect/anyconnect4
 Inmarsat info: 
 https://www.inmarsat.com/en/support-and-info/support/bgan-firmware.html
 go to TCP accellerator version 2 , download Manual & Download program version for windows 7 64 bit. 
+
+64 bit:  https://www.inmarsat.com/content/dam/inmarsat/corporate/support/fleetbroadband/TCP_PEP_Win7_64bit.zip.coredownload.zip
+Manual:  https://www.inmarsat.com/content/dam/inmarsat/corporate/support/fleetbroadband/Inmarsat_TCP_Accelerator_V2.pdf.coredownload.pdf 
+
+Any problems please contact me. 
+
+Thanks
+Stuart Smiles
+@stuart_smiles on twitter.
+ 
