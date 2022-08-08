@@ -73,3 +73,12 @@ https://support.zen.co.uk/kb/Knowledgebase/Changing-the-MTU-size-in-Windows-Vist
 Settings for Satellite connections  - 
 https://www.inmarsat.com/content/dam/inmarsat/corporate/support/fleetbroadband/Inmarsat_TCP_Accelerator_V2.pdf.coredownload.pdf 
 
+Note Cisco VPN client:  Cisco VPN Client normally sets MTU at 1300 so it may be worth going lower that 1420 to 1300. 
+https://www.cisco.com/c/en/us/td/docs/security/vpn_client/anyconnect/anyconnect40/administration/guide/b_AnyConnect_Administrator_Guide_4-0/configure-vpn.html 
+
+Cisco Troubleshooting guide:
+https://www.cisco.com/c/en/us/td/docs/security/vpn_client/anyconnect/anyconnect40/administration/guide/b_AnyConnect_Administrator_Guide_4-0/troubleshoot-anyconnect.html
+
+Inmarsat info: 
+https://www.inmarsat.com/en/support-and-info/support/bgan-firmware.html
+go to TCP accellerator version 2 , download Manual & Download program version for windows 7 64 bit. 
